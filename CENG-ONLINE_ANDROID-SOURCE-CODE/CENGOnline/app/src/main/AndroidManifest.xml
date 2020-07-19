@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cengonline">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/lolgo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/lolgo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Activity.TeacherDrawer"
+            android:label="@string/title_activity_teacher_drawer"
+            android:theme="@style/AppTheme.NoActionBar">
+
+
+        </activity>
+        <activity android:name=".Activity.PostDetailActivity"></activity>
+
+        <activity android:name=".Activity.ChatDetailActivity"></activity>
+        <activity
+            android:name=".Activity.StudentDrawer"
+            android:label="@string/title_activity_student_drawer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Activity.Person" />
+        <activity android:name=".Activity.Teacher" />
+        <activity android:name=".Activity.Student" />
+        <activity android:name=".Activity.Login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity.Register" />
+        <activity android:name=".Activity.MainActivity" >
+
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

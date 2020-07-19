@@ -1,0 +1,56 @@
+/*
+Course codes are for students to join
+so we will put every created course and their code here
+if you need new created course key on new course easiest way to access it for now
+
+sorry for inconvenience but we could not find a way to share
+realtime database with you without inviting your google account if you contact us we are glad to
+send an invation to your gmail account.
+
+You can see everything as a teacher to see everything. You can use that if needed.
+
+Students can join classes CODES below.
+*/
+CME3202
+Programming Languages
+CODE: MAINtuTB9IFUgNQMeQU7
+
+CME2204
+Algorithms and Analysis
+CODE: -MAIQ8Fj-PAOKa1Y_eQg
+
+CME2202
+Data Organization and Management
+CODE: -MAIQN1TdB6_yBL8n1Dq
+
+CME2210
+Object Oriented Programming
+CODE: -MAIRqzh4lSRYJgjmj4h
+
+CME2208
+Numerical Analysis
+CODE: -MAIS7g8eFO-Gg0-re77
+
+CME2206
+Computer Architecture
+CODE: -MAIU1xq9IzSRG-WGBYI
+
+MT101
+CALCULUS
+CODE: -MAIT5zRugJ7N3c_rmA_
+
+PHY101
+PHYSICS
+CODE: -MAITfSqiqQMbkelHstC
+
+CME1214
+LOGIC DESIGN
+CODE: -MAIWoh_wy3fj7K4kyGh
+
+CME4416
+DATAMINING
+CODE: -MAanGIcS2VxxMSlO8Xb
+
+CME4002
+BITIRME
+CODE: -MAaqBcasJoYT_6oJ9Jx

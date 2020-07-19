@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/HomeTeacherFragment"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home Teacher" />
+        <item
+            android:id="@+id/ProfileTeacherFragment"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Profile Teacher" />
+        <item
+            android:id="@+id/MessageTeacherFragment"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Message Teacher" />
+        <item
+            android:id="@+id/SignoutTeacher"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="SignOut Teacher" />
+    </group>
+</menu>

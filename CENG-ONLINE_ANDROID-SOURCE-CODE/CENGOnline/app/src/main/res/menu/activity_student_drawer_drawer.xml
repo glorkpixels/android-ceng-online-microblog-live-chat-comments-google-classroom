@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/HomeStudentFragment"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home Student" />
+        <item
+            android:id="@+id/ProfileStudentFragment"
+
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Profile Student" />
+        <item
+            android:id="@+id/MessageStudentFragment"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Message Student" />
+        <item
+            android:id="@+id/SignoutStudent"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="SignOut Student" />
+    </group>
+</menu>
